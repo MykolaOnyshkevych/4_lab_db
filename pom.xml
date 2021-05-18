@@ -99,7 +99,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ua.lviv.iot.App</mainClass>
+                            <mainClass>java.com.onyshkevych.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
